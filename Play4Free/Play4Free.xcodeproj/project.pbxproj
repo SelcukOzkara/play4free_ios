@@ -11,6 +11,7 @@
 		A121BF712B63BE4100936A85 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A121BF702B63BE4100936A85 /* ContentView.swift */; };
 		A121BF732B63BE4200936A85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A121BF722B63BE4200936A85 /* Assets.xcassets */; };
 		A121BF762B63BE4200936A85 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A121BF752B63BE4200936A85 /* Preview Assets.xcassets */; };
+		A121BF7D2B63BF6B00936A85 /* Pflichtenheft_Selcuk Özkara.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A121BF7C2B63BF6B00936A85 /* Pflichtenheft_Selcuk Özkara.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A121BF702B63BE4100936A85 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A121BF722B63BE4200936A85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A121BF752B63BE4200936A85 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A121BF7C2B63BF6B00936A85 /* Pflichtenheft_Selcuk Özkara.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Pflichtenheft_Selcuk Özkara.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		A121BF6D2B63BE4100936A85 /* Play4Free */ = {
 			isa = PBXGroup;
 			children = (
+				A121BF7C2B63BF6B00936A85 /* Pflichtenheft_Selcuk Özkara.pdf */,
 				A121BF6E2B63BE4100936A85 /* Play4FreeApp.swift */,
 				A121BF702B63BE4100936A85 /* ContentView.swift */,
 				A121BF722B63BE4200936A85 /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A121BF762B63BE4200936A85 /* Preview Assets.xcassets in Resources */,
+				A121BF7D2B63BF6B00936A85 /* Pflichtenheft_Selcuk Özkara.pdf in Resources */,
 				A121BF732B63BE4200936A85 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
