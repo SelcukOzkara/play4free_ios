@@ -36,7 +36,7 @@ This app is based on the API of Free2Play.
 1. Clone FreeToGame App with **Git**
 
 ```git
-  git clone https://github.com/SelcukOzkara/play4free.git
+  git clone https://github.com/SelcukOzkara/play4free_ios.git
 
 ```
 
